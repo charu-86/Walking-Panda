@@ -5,7 +5,7 @@ body{
     border-bottom:7px solid gray;
 }
 #runner{
-    background:url("panda_color.png");
+    background:url("./panda_color.png");
     width: 250px;
     height: 330px;
     animation: walk 2s steps(12) infinite,
